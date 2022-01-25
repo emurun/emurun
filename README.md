@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Murun. ENFJ| Foodie | Grey's Anatomy Fan
+- 👋 Hi, I’m Murun. ENFJ | Foodie | Grey's Anatomy Fan
 - 👀 I’m interested in data analytics and data science. 
 - 🌱 I’m currently learning Machine Learning & ETL. 
 - 💞️ I’m looking to collaborate on exciting projects! 
